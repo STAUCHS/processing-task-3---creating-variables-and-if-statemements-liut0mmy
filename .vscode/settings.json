@@ -1,0 +1,17 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/Users/liut3514/Desktop/Computer Science/**/*.jar"
+        ],
+        "exclude": [
+            "/Users/liut3514/Desktop/Computer Science/5-3-processing-task-2-using-variables-liut0mmy/lib/repl_core.jar",
+            "bin/lib/repl_core.jar",
+            "/Users/liut3514/Desktop/Computer Science/5-2-processing-task-1-calling-functions-liut0mmy/lib/repl_core.jar",
+            "lib/repl_core.jar",
+            "/Users/liut3514/Desktop/Computer Science/5-3-processing-task-2-using-variables-liut0mmy/bin/lib/repl_core.jar",
+            "/Users/liut3514/Desktop/Computer Science/5-1--processing-intro-liut0mmy/lib/repl_core.jar",
+            "/Users/liut3514/Desktop/Computer Science/5-2-processing-task-1-calling-functions-liut0mmy/bin/lib/repl_core.jar"
+        ]
+    }
+}
